@@ -13,6 +13,7 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Variables:** We analyze various factors including neighborhood, room type, price, minimum nights, and host details.
 - **Data Exploration:** Understanding the distribution and relationships between variables is crucial for deriving meaningful insights.
 
+
 ## Understanding the Given Variables:
 - **Listing_id:** Unique identifier for each listing.
 - **Listing_name:** Title of the listing on the Airbnb website.
@@ -28,6 +29,10 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Reviews_per_month:** Average number of reviews received per month.
 - **Host_listings_count:** Total number of listings by the host on Airbnb.
 - **Availability_365:** Number of days in the next 365 days that the listing is available for booking.
+<p align="center">
+  <img width="700" height="350" src="airbnb/images.jpeg">
+</p>
+
 ## Key Objectives:
 1. **Booking Price Range Distribution:** Understanding the distribution of Airbnb prices.
 2. **Neighborhood Analysis:** Total listings, average prices, and top neighborhoods.
