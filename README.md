@@ -1,4 +1,4 @@
-# Airbnb Price Analysis: Insights for New York City
+# Airbnb Price Analysis
 Welcome to the Airbnb Price Analysis project! 🌍🔍
 
 ## Project Overview:
