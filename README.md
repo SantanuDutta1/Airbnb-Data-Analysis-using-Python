@@ -1,4 +1,5 @@
 # Airbnb Price Analysis: Insights for New York City
+Welcome to the Airbnb Price Analysis project! 🌍🔍
 
 ## Project Overview:
 Our project delves into the intricate dynamics of Airbnb rentals in New York City, aiming to uncover patterns and insights crucial for travelers, hosts, and Airbnb businesses. We meticulously explore and cleanse the dataset to ensure accuracy, providing valuable insights to facilitate informed decision-making.
