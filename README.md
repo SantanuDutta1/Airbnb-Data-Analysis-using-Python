@@ -7,12 +7,14 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 
 <p align="center">
   <img width="700" height="350" src="airbnb/images.jpeg">
-</p>
+</p> 
 
 ## Understanding the Data:
 - **Variables:** We analyze various factors including neighborhood, room type, price, minimum nights, and host details.
 - **Data Exploration:** Understanding the distribution and relationships between variables is crucial for deriving meaningful insights.
-
+<p align="center">
+  <img width="500" height="350" src="airbnb/images11.png">
+</p>
 
 ## Understanding the Given Variables:
 - **Listing_id:** Unique identifier for each listing.
@@ -30,8 +32,8 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Host_listings_count:** Total number of listings by the host on Airbnb.
 - **Availability_365:** Number of days in the next 365 days that the listing is available for booking.
 <p align="center">
-  <img width="700" height="350" src="airbnb/images11.png">
-</p>
+  <img width="500" height="350" src="airbnb/download (12).jpeg">
+</p> airbnb/maxresdefault.jpg
 
 ## Key Objectives:
 1. **Booking Price Range Distribution:** Understanding the distribution of Airbnb prices.
@@ -42,6 +44,9 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 6. **Review Analysis:** Total and maximum reviews by neighborhood.
 7. **Location Recommendations:** Identifying the best locations for travelers and hosts.
 8. **Correlation Analysis:** Visualizing correlations between different variables.
+<p align="center">
+  <img width="500" height="350" src="airbnb/maxresdefault.jpg">
+</p>
 
 ## Project Conclusion:
 - **Prime Locations:** Manhattan and Brooklyn emerge as prime locations, offering high demand and potential returns for hosts.
