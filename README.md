@@ -13,7 +13,7 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Variables:** We analyze various factors including neighborhood, room type, price, minimum nights, and host details.
 - **Data Exploration:** Understanding the distribution and relationships between variables is crucial for deriving meaningful insights.
 <p align="center">
-  <img width="500" height="350" src="airbnb/images11.png">
+  <img width="700" height="350" src="airbnb/images11.png">
 </p>
 
 ## Understanding the Given Variables:
@@ -32,8 +32,8 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Host_listings_count:** Total number of listings by the host on Airbnb.
 - **Availability_365:** Number of days in the next 365 days that the listing is available for booking.
 <p align="center">
-  <img width="500" height="350" src="airbnb/download (12).jpeg">
-</p> airbnb/maxresdefault.jpg
+  <img width="700" height="350" src="airbnb/download (12).jpeg">
+</p> 
 
 ## Key Objectives:
 1. **Booking Price Range Distribution:** Understanding the distribution of Airbnb prices.
@@ -45,7 +45,7 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 7. **Location Recommendations:** Identifying the best locations for travelers and hosts.
 8. **Correlation Analysis:** Visualizing correlations between different variables.
 <p align="center">
-  <img width="500" height="350" src="airbnb/maxresdefault.jpg">
+  <img width="700" height="350" src="airbnb/maxresdefault.jpg">
 </p>
 
 ## Project Conclusion:
@@ -55,7 +55,14 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Competitive Landscape:** Despite dominance by some hosts, strategic differentiation can foster success in the competitive market.
 - **Airport Proximity:** Queens neighborhoods near airports present opportunities for short-term stays and competitive pricing.
 
-## Project Link:
-[GitHub Repository](insert your repository link here)
+## Data Link
+[Download Airbnb Dataset](https://github.com/SantanuDutta1/Airbnb-Data-Analysis-using-Python/blob/main/Airbnb%20NYC%202019%20Dataset.csv)
 
-Feel free to explore the detailed analysis and insights provided by our project to enhance your understanding of the Airbnb market in New York City.
+## Project Link
+[Airbnb Price Analysis By Santanu Dutta](https://github.com/SantanuDutta1/Airbnb-Data-Analysis-using-Python/blob/main/AIEBNB_ANALYSIS(EDA).ipynb)
+
+## Authors
+
+- [@Santanudutta1](https://github.com/SantanuDutta1)
+
+Santanu Dutta - Data Analyst - Santanu Data - All work
