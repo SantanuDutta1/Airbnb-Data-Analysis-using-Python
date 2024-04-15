@@ -6,7 +6,7 @@ Welcome to the Airbnb Price Analysis project! 🌍🔍
 Our project delves into the intricate dynamics of Airbnb rentals in New York City, aiming to uncover patterns and insights crucial for travelers, hosts, and Airbnb businesses. We meticulously explore and cleanse the dataset to ensure accuracy, providing valuable insights to facilitate informed decision-making.
 
 <p align="center">
-  <img width="700" height="350" src="airbnb/images (1).jpeg">
+  <img width="700" height="350" src="airbnb/images.jpeg">
 </p>
 
 ## Understanding the Data:
