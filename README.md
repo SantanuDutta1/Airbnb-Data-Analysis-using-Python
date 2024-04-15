@@ -30,7 +30,7 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Host_listings_count:** Total number of listings by the host on Airbnb.
 - **Availability_365:** Number of days in the next 365 days that the listing is available for booking.
 <p align="center">
-  <img width="700" height="350" src="airbnb/images.jpeg">
+  <img width="700" height="350" src="airbnb/images11.png">
 </p>
 
 ## Key Objectives:
