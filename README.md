@@ -1,4 +1,5 @@
-# Airbnb Price Analysis
+<h1 align="center">  <img src="IMDb photos/IMDB logo.png" width="60" height="30"/> </a>   Airbnb Price Analysis <a  target="_blank"> <img src="IMDb photos/excel-avancado-1.jpg"  width="60" height="30"/> </a> </h1>
+
 Welcome to the Airbnb Price Analysis project! 🌍🔍
 
 ## Project Overview:
